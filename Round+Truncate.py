@@ -1,5 +1,5 @@
 while True:
-    opt = input('(1) Round\n(2) Truncate\n(3) Exit\n')
+    opt = input('Avoid using the comma for decimals\n\nEnter 1,2 or 3:\n(1) Round\n(2) Truncate\n(3) Exit\n')
 
     if opt=='1':
         x = float(input('Number: '))
